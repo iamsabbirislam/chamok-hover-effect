@@ -1,6 +1,6 @@
 <h2>Chamok Hover Effect</h2> <a href="https://iamsabbirislam.github.io/chamok-hover-effect/">Demo Here</a>
 
-<h5>Effect List:</h5>
+<h2>Effect List:</h2>
 
 <li>cmk-updown</li> 
 <li>cmk-slide-in-vertical</li>
@@ -35,4 +35,4 @@
 
 <h2>Licenses</h2> 
 
-You can use chamok hover effect personal / commercial project. <a href="https://opensource.org/licenses/MIT">MIT Licenses</a>
+You can use chamok hover effect personal / commercial project. License Under <a href="https://opensource.org/licenses/MIT">MIT Licenses</a>
