@@ -33,5 +33,6 @@
 <li>cmk-double-line-left</li>
 <li>cmk-double-line-right</li>
 
-<h5>Licenses</h5> 
+<h2>Licenses</h2> 
+
 You can use chamok hover effect personal / commercial project. <a href="https://opensource.org/licenses/MIT">MIT Licenses</a>
