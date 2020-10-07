@@ -1,0 +1,66 @@
+/*
+Plugin Name: Chamok Hover Effect
+Plugin URI: http://twinkletheme.xyz/
+Description: It's a free hover effect Library.
+Version: 1.0.0
+Author: TwinkleTheme
+Author URI: http://twinkletheme.xyz/
+License: GPLv2 or later
+*/
+
+
+
+/*Demo*/
+.cmk-hover-demo {
+    background-color: #222;
+    padding: 300px;
+    height: 100vh;
+}
+
+/*Button Customize*/
+.cmk-button {
+    display: inline-block;
+    background-color: #d30c5c;
+    color: #fff;
+    border-radius: 2px;
+    z-index: 5;
+    padding: 10px 25px;
+}
+.cmk-button:hover {
+    border-radius: 2px;
+}
+.cmk-button:before {
+    border-radius: 2px;
+}
+.cmk-button:after {
+    border-radius: 2px;
+}
+.cmk-button-border {
+    border: 2px solid #d30c5c;
+    background-color: transparent;
+    color: #fff;
+    display: inline-block;
+    border-radius: 2px;
+    z-index: 5;
+    padding: 10px 25px;
+}
+.cmk-button-border:hover {
+    border-radius: 2px;
+    color: #fff;
+}
+.cmk-button-border:before {
+    border-radius: 2px;
+}
+.cmk-button-border:after {
+    border-radius: 2px;
+}
+.before-icon i {
+    float: left ;
+    padding: 5px 0;
+    padding-right: 10px;
+}
+.after-icon i {
+    float: right;
+    padding: 5px 0;
+    padding-left: 10px;
+}
