@@ -1,4 +1,4 @@
-<h2>Chamok Hover Effect</h2> <a href="https://iamsabbirislam.github.io/chamok-hover-effect/">Demo Here</a>
+<h2>Chamok Hover Effect</h2> <a href="https://iamsabbirislam.github.io/chamok-hover-effect/">Demo Here</a> | <a href="https://codecanyon.net/item/chamok-button-addon-for-elementor-page-builder/25196112">WordPress Plugin (Elementor Addon)</a>
 
 <h2>Effect List:</h2>
 
